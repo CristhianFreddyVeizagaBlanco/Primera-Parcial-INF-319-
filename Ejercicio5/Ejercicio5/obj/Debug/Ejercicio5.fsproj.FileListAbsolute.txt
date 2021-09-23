@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.XML
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\bin\Debug\FSharp.Core.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\bin\Debug\FSharp.Core.xml
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
