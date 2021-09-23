@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\bin\Debug\Ejercicio1_Calculadora.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\bin\Debug\Ejercicio1_Calculadora.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\bin\Debug\Ejercicio1_Calculadora.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\obj\Debug\Ejercicio1_Calculadora.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\obj\Debug\Ejercicio1_Calculadora.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\obj\Debug\Ejercicio1_Calculadora.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\obj\Debug\Ejercicio1_Calculadora.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\obj\Debug\Ejercicio1_Calculadora.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio1_Calculadora\Ejercicio1_Calculadora\obj\Debug\Ejercicio1_Calculadora.pdb
